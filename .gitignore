@@ -1,3 +1,4 @@
 *.log
 2.txt
-.gitignore
+
+ignore_dir/
